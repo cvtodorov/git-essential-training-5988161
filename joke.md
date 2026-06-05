@@ -1,0 +1,1 @@
+Random digits sintezator won a contest for logic
